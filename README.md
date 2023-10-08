@@ -65,7 +65,8 @@ To initiate the app locally, follow these steps:
    npm run dev
    ```
 
-5. Open your web browser and navigate to http://localhost:5137 to access the Moonquake Visualization App.
+5. Open your web browser and navigate to http://localhost:5173/Moon-Visualizer-nac-2023/ to access the Moonquake
+   Visualization App.
 
 Feel free to explore and contribute to this project. We hope you find our visualization of moonquake data both
 informative and engaging!
