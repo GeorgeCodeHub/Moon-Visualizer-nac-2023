@@ -19,6 +19,8 @@ const router = createBrowserRouter(
 	{ basename: import.meta.env.DEV ? "/" : "/Moon-Visualizer-nac-2023/" }
 );
 
+console.log(import.meta.env.DEV);
+
 function App() {
 	return <RouterProvider router={router} />;
 }
